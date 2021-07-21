@@ -4,10 +4,12 @@ sections:
   - type: hero_section
     title: The Marketing Tricks No MBA Can Teach You
     subtitle: Your guide to B2B marketing in the real world.
-    content: |-
+    content: >
       This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+      create **effective** landing pages, compelling ads, creative copywriting
+      and
+
+      converting marketing materials for any business. Yada
     actions:
       - label: Get the book
         url: /pricing
